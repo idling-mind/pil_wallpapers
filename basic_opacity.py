@@ -19,7 +19,7 @@ for i in range(10):
     draw_circle(
         img_size_scaled[0]/2, img_size_scaled[1]/2,
         img_size_scaled[0]/2*(10-i)/10,
-        (255, 0, 0, int(255*i/10))
+        (255, 0, 0, int(100*i/10))
     )
 # You can pass in list of tuples too!
 
