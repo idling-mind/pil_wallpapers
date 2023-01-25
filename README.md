@@ -1,4 +1,5 @@
-# pil_wallpapers
-### Creating geometric wallpapers using python and Pillow library
+# Wallpapers with python and Pillow library
 
-Supporting repository for a medium article published [here](#).
+![Wallpaper](https://miro.medium.com/max/720/1*JwIief6y1MKKM8rbijpq7Q.webp)
+
+Original article can be found [here](https://medium.com/@najeem/wallpapers-with-python-621693567dba)
